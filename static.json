@@ -1,6 +1,6 @@
 {
-"encoding" : "UTF-8"
-"headers" {
+"encoding" : "UTF-8" ,
+"headers" : {
   "/*" : {
   "X-Author" : "Jouine"
   
