@@ -2,8 +2,8 @@
 "encoding" : "UTF-8" ,
 "headers" : {
   "/*" : {
-  "X-Author" : "Jouine"
-  
+  "X-Author" : "Jouine",
+  "Access-Control-Allow-Origin" : "*"
 }
 }
 }
